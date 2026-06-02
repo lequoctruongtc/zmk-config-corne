@@ -23,10 +23,10 @@
 
         windows_lower {
             bindings = <
-&kp GRAVE       &kp EXCL  &kp AT  &kp HASH  &kp DOLLAR  &kp PERCENT    &kp CARET  &kp AMPERSAND  &kp ASTRK       &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp DELETE
-&kp TILDE       &kp N1    &kp N2  &kp N3    &kp N4      &kp N5         &kp MINUS  &kp EQUAL      &kp LBKT        &kp RBKT              &kp BSLH               &kp LA(Z)
-&kp LEFT_SHIFT  &kp N6    &kp N7  &kp N8    &kp N9      &kp N0         &kp UNDER  &kp PLUS       &kp LEFT_BRACE  &kp RIGHT_BRACE       &kp PIPE               &kp LS(TAB)
-                                  &trans    &trans      &trans         &kp LCTRL  &kp LGUI       &kp LC(SPACE)
+&kp GRAVE       &kp EXCL  &kp AT  &kp HASH  &kp DOLLAR  &kp PERCENT    &kp CARET      &kp AMPERSAND  &kp ASTRK       &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp DELETE
+&kp TILDE       &kp N1    &kp N2  &kp N3    &kp N4      &kp N5         &kp MINUS      &kp EQUAL      &kp LBKT        &kp RBKT              &kp BSLH               &kp LA(Z)
+&kp LEFT_SHIFT  &kp N6    &kp N7  &kp N8    &kp N9      &kp N0         &kp UNDER      &kp PLUS       &kp LEFT_BRACE  &kp RIGHT_BRACE       &kp PIPE               &kp LS(TAB)
+                                  &trans    &trans      &trans         &kp LC(SPACE)  &kp LGUI       &kp LCTRL
             >;
         };
 
